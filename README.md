@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaankacastro/)
 
+Oláaaaa! Eu sou a Yanka, sou estudante de Tecnologia. `Desenvolvedora Front-end` e **em breve** `Full-Stack`! Sempre fui apaixonada por tecnologia e adoro a velocidade como as coisas crescem nos dando a oportunidade de todo dia aprender algo novo! Estou` animada para aprender coisas novas`.  Atualmente tenho algumas expriências com projetos pessoais e dentro da minha formação com` HTML e CSS`. E  me aprimorando em JS!
+
 ![Yanka GitHub stats](https://github-readme-stats.vercel.app/api?username=yankacst&show_icons=true&theme=tokyonight)
 
 
