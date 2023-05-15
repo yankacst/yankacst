@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaankacastro/)
 
 
-Eu sou estudante de Tecnologia. `Desenvolvedora Front-end`, e me aprofundando em `Back-end` para **em breve** ser `Full-Stack`!  Sempre fui apaixonada por tecnologia e adoro a velocidade como as coisas crescem nos dando a oportunidade de todo dia aprender algo novo! Estou` animada para aprender coisas novas`.  Atualmente tenho algumas expriências com projetos pessoais e dentro da minha formação com` HTML, CSS, JavaScript e React, SAAS, Node.js, e MONGODB`.
+Eu sou estudante de Tecnologia. `Desenvolvedora Front-end`, e me aprofundando em `Back-end` para **em breve** ser `Full-Stack`!  Sempre fui apaixonada por tecnologia e adoro a velocidade como as coisas mudam nos dando a oportunidade de todo dia aprender algo novo! Estou` animada para aprender coisas novas`.  Atualmente tenho algumas expriências com projetos pessoais e dentro da minha formação com` HTML, CSS, JavaScript e React, SAAS, Node.js, e MONGODB`.
 
 Todos os dias eu busco aprender algo que fará diferença para chegar onde eu desejo. 🚀
 
