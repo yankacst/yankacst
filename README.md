@@ -8,6 +8,6 @@ Eu sou Desenvolvedora Front-end! E atualmente estou aprofundando meus conhecimen
 Todos os dias eu busco aprender algo que fará diferença para chegar onde eu desejo. 🚀
 
 ![Yanka GitHub stats](https://github-readme-stats.vercel.app/api?username=yankacst&show_icons=true&theme=tokyonight)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankacst&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankacst&layout=compact&langs_count=7&theme=tokyonight"/>
 
  💻 Tecnologias que uso no meu dia a dia são: JavaScript, React, SAAS, Node.js, MongoDB, e Express.js 
